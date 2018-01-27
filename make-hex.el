@@ -1,5 +1,8 @@
 ;; make-hex.el -- functions for drawing small ASCII hexes
 ;; (c) Copyright 1998 Lars Clausen
+;;
+;; License: public-domain
+;;
 ;; Distribute and modify as you wish, as long as the copyright notice stays.
 ;; No warranty, no liability, no nothing.  Comments welcome.
 ;;                         __
